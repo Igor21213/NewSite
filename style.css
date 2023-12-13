@@ -1,0 +1,14 @@
+body{
+	background-color: green;
+	margin: 0;
+}
+
+.Cat{
+	height: 400px;
+	width: 400px;
+	background-color: red;
+}
+
+.infoCar{
+	font-size: 30px;
+}
